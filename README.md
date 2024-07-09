@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-- 🔭 I’m currently working on **compiling all my work together.**
+- 🔭 I’m currently working on **a password manager using Java.**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/kristellesampang/home](https://sites.google.com/view/kristellesampang/home)
 
@@ -28,3 +28,4 @@
 <br>
 <br>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristellesampang&" alt="kristellesampang" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristellesampang&" alt="kristellesampang" /></p>
