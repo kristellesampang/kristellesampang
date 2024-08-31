@@ -9,11 +9,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-- 🔭 I’m currently working on **a password manager using Java.**
+- 🔭 I’m currently working on **Daily Coding Problems.**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/kristellesampang/home](https://sites.google.com/view/kristellesampang/home)
 
-- 💬 Ask me about **ELECTENG/COMPSYS 209**
+- 💬 Ask me about **anything.**
 
 - ⚡ Fun fact **I got free tickets to see Taylor Swift!**
 
