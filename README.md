@@ -5,15 +5,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kristelle</h1>
-<h3 align="center">A third-year Computer Systems Engineering student interested in firmware and robotics.</h3>
+<h3 align="center">A Computer Systems Engineering student interested in firmware and robotics about to enter the final year of undergrad.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-- 🔭 I’m currently working on **Daily Coding Problems.**
+- 🔭 I’m currently working on **automating as much tasks at work**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/kristellesampang/home](https://sites.google.com/view/kristellesampang/home)
 
-- 💬 Ask me about **anything.**
+- 💬 Ask me about **COMPSYS305 or COMPSYS301!**
 
 - ⚡ Fun fact **I got free tickets to see Taylor Swift!**
 
