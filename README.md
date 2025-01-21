@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **automating as much tasks at work**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/kristellesampang/home](https://sites.google.com/view/kristellesampang/home)
+- 👨‍💻 Some of my projects are shown at [https://sites.google.com/view/kristellesampang/home](https://sites.google.com/view/kristellesampang/home)
 
 - 💬 Ask me about **COMPSYS305 or COMPSYS301!**
 
