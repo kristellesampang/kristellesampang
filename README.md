@@ -5,21 +5,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kristelle</h1>
-<h3 align="center">A Computer Systems Engineering student interested in firmware and robotics about to enter the final year of undergrad.</h3>
+<h3 align="center">A final year Computer Systems Engineering student interested in digital design and embedded systems.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-- 🔭 I’m currently working on **automating as much tasks at work**
+- 🔭 I’m currently working on **my Part 4 Project about NPU accelerators**
 
-- 👨‍💻 Some of my projects are shown at [https://sites.google.com/view/kristellesampang/home](https://sites.google.com/view/kristellesampang/home)
+<!-- - 👨‍💻 Some of my projects are shown at [https://sites.google.com/view/kristellesampang/home](https://sites.google.com/view/kristellesampang/home)    -->
 
-- 💬 Ask me about **COMPSYS305 or COMPSYS301!**
+- 💬 Ask me about **my projects: Flappy Bird on an FPGA, Path-Finding Robot, Android eCommerce App, and Virual Pacemaker**
 
 - ⚡ Fun fact **I got free tickets to see Taylor Swift!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kristelle-sampang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kristelle-sampang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kristelle-sampang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kristelle-sampang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
